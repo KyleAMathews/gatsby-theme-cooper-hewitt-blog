@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-theme-cooper-hewitt-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Yarn workspace for maintaining gatsby-theme-cooper-hewitt-blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "workspaces": ["gatsby-theme-cooper-hewitt-blog", "example"],
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-theme-cooper-hewitt-blog",
+  "version": "1.0.0",
+  "description": "Gatsby Theme based on Kyle Mathews' blog @ bricolage.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-theme"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}
